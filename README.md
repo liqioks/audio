@@ -1,6 +1,5 @@
 # vue-project
-
-This template should help get you started developing with Vue 3 in Vite.
+这是一个基于Vue 和 three.js 实现的音频可视化demo
 
 ## Recommended IDE Setup
 
